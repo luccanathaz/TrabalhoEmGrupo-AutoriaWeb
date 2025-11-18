@@ -1,0 +1,189 @@
+.fundo {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0f3351;
+    height: 800px;
+    width: 580px;
+    padding-top: 30px;
+}
+.frente {
+    border-radius: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #21486a;
+    margin-top: 0px;
+    height: 90%;
+    width: 500px;
+    padding-top: 50px;
+
+}
+p {
+    text-align: center;
+    color: white;
+    position: relative;
+    font-size:45px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-weight: lighter;
+    margin-left: -200px;
+    margin-top: -40px;
+    
+
+    
+}
+.azulc {
+    background-color: #1e5274;
+    height: 80%;
+
+}
+.amarelo {
+    font-size:38px;
+    font-family: "Pixelify Sans", sans-serif;
+    color: gold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    text-align: center;
+}
+.amareloo {
+    font-size:70px;
+    font-family: "Pixelify Sans", sans-serif;
+    color: gold;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -50px;
+    text-align: center;
+}
+.branco {
+    background-color: #FFFFFF;
+    height: 85%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+
+}
+img {
+    height: 200px;
+    border-radius: 18px;
+    background-color: #e0dfdd;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.nome {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #0E3C60;
+    font-size: x-large;
+    margin-left: 245px;
+}
+.nomecaixa {
+    background-color: #e0dfdd;
+    border: none;
+    width: 230px;
+    margin-left: 245px;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+.caixa {
+    margin-top: -200px;
+}
+.classe{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #0E3C60;
+    font-size: x-large;
+    margin-left: 245px;
+}
+.classecaixa {
+    background-color: #e0dfdd;
+    border: none;
+    width: 230px;
+    margin-left: 245px;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+.classediv {
+    margin-top: 20px;
+}
+::placeholder {
+    color: #0E3C60;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+
+}
+.xp {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #0E3C60;
+    font-size: xx-large;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.num{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #0E3C60;
+    font-size: xx-large;
+    margin-right: -400px;
+    margin-top: -60px;
+    
+}
+.xpbarra {
+    background-color: #e0dfdd;
+    height: 30px;
+    width: 470px;
+    border-radius: 10px;
+    margin: 10px auto 50px auto;
+    display: block;
+    overflow: hidden;
+    margin-top: -20px;
+    ;
+}
+.xpfill {
+    height: 100%;
+    width: 40%;
+    background-color: gold;
+    border-radius: 10px 0 0 10px;
+}
+.trofeu {
+    position: absolute;
+    padding-bottom: -30px;
+    height: 70px;
+    margin-top: -1px;
+    margin-left: -30px;
+    background-color: #21486a;
+}
+.conquista {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #0E3C60;
+    font-size: 29px;
+    margin-left: 10px;
+    margin-top: -40px;
+
+}
+.estrela{
+    background-color: white;
+    margin-top: -20px;
+    margin-left: 70px;
+    height: 95px;
+}
+.medalha {
+    background-color: white;
+    margin-top: -200px;
+    margin-bottom: 20px;
+    margin-left: 220px;
+    height: 95px;
+}
+.html {
+    background-color: white;
+    margin-left: 340px;
+    margin-top: -200px;
+    margin-bottom: 35px;
+    height: 90px;
+}
+body {
+    background: linear-gradient(to right, #000000, #171718, #272829);
+}
